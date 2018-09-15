@@ -1,0 +1,665 @@
+<?php get_header(); ?>
+
+<div class="fh5co"></div>
+
+	<div id="page">
+		<nav class="fh5co-nav" role="navigation">
+			<div class="top">
+				<div class="container">
+					<div class="row">
+						<div class="col-xs-12 text-right">
+							<p class="site">smkn1nabire@gmail.com </p>
+							<p class="num">Call:(0411) 000000</p>
+							<ul class="fh5co-social">
+								<li><a href="#"><i class="icon-facebook2"></i></a></li>
+								<li><a href="#"><i class="icon-twitter2"></i></a></li>
+								<li><a href="#"><i class="icon-dribbble2"></i></a></li>
+								<li><a href="#"><i class="icon-github"></i></a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="top-menu" style=" border-bottom:5px solid #00a042;">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-3">
+							<div id="fh5co-logo">
+								<img class="img-responsive" style="margin-bottom: -40px;" src="<?php echo turi ?>/assets/gambar/logo.jpg" width="70">
+								<a href="index.html" style="margin-left:20px;">SMKN 1 NABIRE<span></span>
+								</a></div>
+						</div>
+						<div class="col-xs-9 text-right menu-1">
+							<!-- menu navigasi -->
+							<ul>
+								<li class="active"><a href="#">BERANDA</a></li>
+
+								<li class="has-dropdown">
+									<a href="#">PROFIL</a>
+									<ul class="dropdown">
+										<li><a href="category.html">Sejarah Sekolah</a></li>
+										<li><a href="category.html">Visi Misi</a></li>
+										<li><a href="category.html">Profil Sekoah</a></li>
+										<li><a href="category.html">Sarana & Prasarana</a></li>
+										<li><a href="category.html">Guru & Staff</a></li>
+										<li><a href="category.html">Struktur Organisasi</a></li>
+									</ul>
+								</li>
+
+								<li class="has-dropdown">
+									<a href="#">KESISWAAN</a>
+									<ul class="dropdown">
+										<li><a href="category.html">Tata Tertib</a></li>
+										<li><a href="category.html">Prestasi</a></li>
+										<li><a href="category.html">Akselerasi</a></li>
+										<li><a href="category.html">OSIS</a></li>
+										<li><a href="category.html">Siswa</a></li>
+										<li><a href="category.html">EXTRAKULIKULER</a></li>
+									</ul>
+								</li>
+
+								<li class="has-dropdown">
+									<a href="#">MEDIA INFORMASI</a>
+									<ul class="dropdown">
+										<li><a href="category.html">Kurikulum</a></li>
+										<li><a href="category.html">Pengumuman & Agenda</a></li>
+										<li><a href="category.html">Berita Sekolah</a></li>
+										<li><a href="category.html">Artikel</a></li>
+										<li><a href="category.html">Download Bahan Ajar</a></li>
+									</ul>
+								</li>
+
+
+								<li><a href="#">TUPOKSI</a></li>
+								<li><a href="#">HUBUNGI KAMI</a></li>
+							</ul>
+							<!-- menu navigasi -->
+						</div>
+					</div>
+
+				</div>
+			</div>
+		</nav>
+		<!-- section slider -->
+		<aside id="fh5co-hero">
+			<div class="carousel slide" id="carousel-example-generic" data-ride="carousel">
+				<ol class="carousel-indicators">
+					<li data-target="#carousel-example-generic" data-slide-to="0" class=""></li>
+					<li data-target="#carousel-example-generic" data-slide-to="1" class="active"></li>
+					<li data-target="#carousel-example-generic" data-slide-to="2" class=""></li>
+				</ol>
+				<div class="carousel-inner" role="listbox">
+					<div class="item">
+						<img alt="First slide [900x500]" data-src="holder.js/900x500/auto/#777:#555/text:First slide" src="https://via.placeholder.com/1544x573" data-holder-rendered="true" width="100%">
+					</div>
+					<div class="item active">
+						<img alt="Second slide [900x500]" data-src="holder.js/900x500/auto/#666:#444/text:Second slide" src="https://via.placeholder.com/1544x573" data-holder-rendered="true" width="100%">
+					</div>
+					<div class="item">
+						<img alt="Third slide [900x500]" data-src="holder.js/900x500/auto/#555:#333/text:Third slide" src="https://via.placeholder.com/1544x573" data-holder-rendered="true" width="100%">
+					</div>
+				</div>
+				<a href="#carousel-example-generic" class="left carousel-control" role="button" data-slide="prev">
+					<span class="glyphicon glyphicon-chevron-left" aria-hidden="true">
+					</span>
+					<span class="sr-only">Previous</span>
+				</a>
+				<a href="#carousel-example-generic" class="right carousel-control" role="button" data-slide="next">
+					<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+					<span class="sr-only">Next</span>
+				</a>
+				</div>
+		</aside>
+		<!-- section slider -->
+
+		<!-- section jurusan -->
+		<div id="fh5co-course-categories">
+			<div class="container">
+				<div class="row animate-box">
+					<div class="col-md-6 col-md-offset-3 text-center fh5co-heading">
+						<h2>Pilihan jurusan</h2>
+						<p> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-4 col-sm-6 text-center animate-box">
+						<div class="services">
+							<span class="icon">
+								<i class="icon-lab2"></i>
+							</span>
+							<div class="desc">
+								<h3><a href="#">TKJ</a></h3>
+								<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 col-sm-6 text-center animate-box">
+						<div class="services">
+							<span class="icon">
+								<i class="icon-world"></i>
+							</span>
+							<div class="desc">
+								<h3><a href="#">TKR</a></h3>
+								<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 col-sm-6 text-center animate-box">
+						<div class="services">
+							<span class="icon">
+								<i class="icon-bubble3"></i>
+							</span>
+							<div class="desc">
+								<h3><a href="#">THP</a></h3>
+								<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+							</div>
+						</div>
+					</div>
+
+				</div>
+			</div>
+		</div>
+		<hr>
+		<!--/ section jurusan -->
+
+		<!--section aplikasi  -->
+		<div class="container">
+			<div class="row animate-box">
+				<div class="col-md-6 col-md-offset-3 text-center fh5co-heading">
+					<h2>Aplikasi</h2>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-3 col-sm-6 text-center animate-box">
+					<div class="services">
+						<span class="icon">
+							<i class="icon-lab2"></i>
+						</span>
+						<div class="desc">
+							<h3><a href="#">E-RAPORT</a></h3>
+
+						</div>
+					</div>
+				</div>
+				<div class="col-md-3 col-sm-6 text-center animate-box">
+					<div class="services">
+						<span class="icon">
+							<i class="icon-world"></i>
+						</span>
+						<div class="desc">
+							<h3><a target="" href="#">E-ABSEN</a></h3>
+
+						</div>
+					</div>
+				</div>
+				<div class="col-md-3 col-sm-6 text-center animate-box">
+					<div class="services">
+						<span class="icon">
+							<i class="icon-bubble3"></i>
+						</span>
+						<div class="desc">
+							<h3><a href="#">SPSB</a></h3>
+						</div>
+					</div>
+				</div>
+
+				<div class="col-md-3 col-sm-6 text-center animate-box">
+					<div class="services">
+						<span class="icon">
+							<i class="icon-bubble3"></i>
+						</span>
+						<div class="desc">
+							<h3><a href="#">APLIKASI ALUMNI</a></h3>
+						</div>
+					</div>
+				</div>
+
+			</div>
+		</div>
+
+		<!-- section counting  -->
+		<div id="fh5co-counter" class="fh5co-counters" style="background-image: url(<?php echo turi ?>/assets/images/img_bg_4.jpg);" data-stellar-background-ratio="0.5">
+			<div class="overlay"></div>
+			<div class="container">
+				<div class="row">
+					<div class="col-md-10 col-md-offset-1">
+						<div class="row">
+							<div class="col-md-3 col-sm-6 text-center animate-box">
+								<span class="icon"><i class="icon-user"></i></span>
+								<span class="fh5co-counter js-counter" data-from="0" data-to="18" data-speed="5000" data-refresh-interval="50"></span>
+								<span class="fh5co-counter-label">Jumlah Siswa</span>
+							</div>
+							<div class="col-md-3 col-sm-6 text-center animate-box">
+								<span class="icon"><i class="icon-study"></i></span>
+								<span class="fh5co-counter js-counter" data-from="0" data-to="1700" data-speed="5000" data-refresh-interval="50"></span>
+								<span class="fh5co-counter-label">Jumlah Alumni</span>
+							</div>
+							<div class="col-md-3 col-sm-6 text-center animate-box">
+								<span class="icon"><i class="icon-bulb"></i></span>
+								<span class="fh5co-counter js-counter" data-from="0" data-to="3" data-speed="5000" data-refresh-interval="50"></span>
+								<span class="fh5co-counter-label">Jumlah User</span>
+							</div>
+							<div class="col-md-3 col-sm-6 text-center animate-box">
+								<span class="icon"><i class="icon-head"></i></span>
+								<span class="fh5co-counter js-counter" data-from="0" data-to="24" data-speed="5000" data-refresh-interval="50"></span>
+								<span class="fh5co-counter-label">Jumalah Guru</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!--/ section counting  -->
+
+		<!-- section prestasi  -->
+		<div id="fh5co-course">
+			<div class="container">
+				<div class="row animate-box">
+					<div class="col-md-6 col-md-offset-3 text-center fh5co-heading">
+						<h2>Prestasi</h2>
+						<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-6 animate-box">
+						<div class="course">
+							<img class="course-img" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/PjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMjQyIiBoZWlnaHQ9IjIwMCIgdmlld0JveD0iMCAwIDI0MiAyMDAiIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiPjwhLS0KU291cmNlIFVSTDogaG9sZGVyLmpzLzEwMCV4MjAwCkNyZWF0ZWQgd2l0aCBIb2xkZXIuanMgMi42LjAuCkxlYXJuIG1vcmUgYXQgaHR0cDovL2hvbGRlcmpzLmNvbQooYykgMjAxMi0yMDE1IEl2YW4gTWFsb3BpbnNreSAtIGh0dHA6Ly9pbXNreS5jbwotLT48ZGVmcz48c3R5bGUgdHlwZT0idGV4dC9jc3MiPjwhW0NEQVRBWyNob2xkZXJfMTY1ZDNmMzkxMWQgdGV4dCB7IGZpbGw6I0FBQUFBQTtmb250LXdlaWdodDpib2xkO2ZvbnQtZmFtaWx5OkFyaWFsLCBIZWx2ZXRpY2EsIE9wZW4gU2Fucywgc2Fucy1zZXJpZiwgbW9ub3NwYWNlO2ZvbnQtc2l6ZToxMnB0IH0gXV0+PC9zdHlsZT48L2RlZnM+PGcgaWQ9ImhvbGRlcl8xNjVkM2YzOTExZCI+PHJlY3Qgd2lkdGg9IjI0MiIgaGVpZ2h0PSIyMDAiIGZpbGw9IiNFRUVFRUUiLz48Zz48dGV4dCB4PSI4OC45MTY2Njc5MzgyMzI0MiIgeT0iMTA1LjI1Ij4yNDJ4MjAwPC90ZXh0PjwvZz48L2c+PC9zdmc+" alt="">
+							<div class="desc">
+								<h3><a href="#">Lorem ipsum</a></h3>
+								<p style="font-size: 10px; margin-top: -15px;">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
+								<p>Lorem ipsum Lorem ipsum</p>
+								<span><a href="single-post.html" class="btn btn-primary btn-sm btn-course">Lihat Selengkapnya</a></span>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-6 animate-box">
+						<div class="course">
+							<img class="course-img" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/PjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMjQyIiBoZWlnaHQ9IjIwMCIgdmlld0JveD0iMCAwIDI0MiAyMDAiIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiPjwhLS0KU291cmNlIFVSTDogaG9sZGVyLmpzLzEwMCV4MjAwCkNyZWF0ZWQgd2l0aCBIb2xkZXIuanMgMi42LjAuCkxlYXJuIG1vcmUgYXQgaHR0cDovL2hvbGRlcmpzLmNvbQooYykgMjAxMi0yMDE1IEl2YW4gTWFsb3BpbnNreSAtIGh0dHA6Ly9pbXNreS5jbwotLT48ZGVmcz48c3R5bGUgdHlwZT0idGV4dC9jc3MiPjwhW0NEQVRBWyNob2xkZXJfMTY1ZDNmMzkxMWQgdGV4dCB7IGZpbGw6I0FBQUFBQTtmb250LXdlaWdodDpib2xkO2ZvbnQtZmFtaWx5OkFyaWFsLCBIZWx2ZXRpY2EsIE9wZW4gU2Fucywgc2Fucy1zZXJpZiwgbW9ub3NwYWNlO2ZvbnQtc2l6ZToxMnB0IH0gXV0+PC9zdHlsZT48L2RlZnM+PGcgaWQ9ImhvbGRlcl8xNjVkM2YzOTExZCI+PHJlY3Qgd2lkdGg9IjI0MiIgaGVpZ2h0PSIyMDAiIGZpbGw9IiNFRUVFRUUiLz48Zz48dGV4dCB4PSI4OC45MTY2Njc5MzgyMzI0MiIgeT0iMTA1LjI1Ij4yNDJ4MjAwPC90ZXh0PjwvZz48L2c+PC9zdmc+" alt="">
+							<div class="desc">
+								<h3><a href="#">Lorem ipsum</a></h3>
+								<p style="font-size: 10px; margin-top: -15px;">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
+								<p>Lorem ipsum Lorem ipsum</p>
+								<span><a href="single-post.html" class="btn btn-primary btn-sm btn-course">Lihat Selengkapnya</a></span>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-6 animate-box">
+						<div class="course">
+							<img class="course-img" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/PjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMjQyIiBoZWlnaHQ9IjIwMCIgdmlld0JveD0iMCAwIDI0MiAyMDAiIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiPjwhLS0KU291cmNlIFVSTDogaG9sZGVyLmpzLzEwMCV4MjAwCkNyZWF0ZWQgd2l0aCBIb2xkZXIuanMgMi42LjAuCkxlYXJuIG1vcmUgYXQgaHR0cDovL2hvbGRlcmpzLmNvbQooYykgMjAxMi0yMDE1IEl2YW4gTWFsb3BpbnNreSAtIGh0dHA6Ly9pbXNreS5jbwotLT48ZGVmcz48c3R5bGUgdHlwZT0idGV4dC9jc3MiPjwhW0NEQVRBWyNob2xkZXJfMTY1ZDNmMzkxMWQgdGV4dCB7IGZpbGw6I0FBQUFBQTtmb250LXdlaWdodDpib2xkO2ZvbnQtZmFtaWx5OkFyaWFsLCBIZWx2ZXRpY2EsIE9wZW4gU2Fucywgc2Fucy1zZXJpZiwgbW9ub3NwYWNlO2ZvbnQtc2l6ZToxMnB0IH0gXV0+PC9zdHlsZT48L2RlZnM+PGcgaWQ9ImhvbGRlcl8xNjVkM2YzOTExZCI+PHJlY3Qgd2lkdGg9IjI0MiIgaGVpZ2h0PSIyMDAiIGZpbGw9IiNFRUVFRUUiLz48Zz48dGV4dCB4PSI4OC45MTY2Njc5MzgyMzI0MiIgeT0iMTA1LjI1Ij4yNDJ4MjAwPC90ZXh0PjwvZz48L2c+PC9zdmc+" alt="">
+							<div class="desc">
+								<h3><a href="#">Lorem ipsum</a></h3>
+								<p style="font-size: 10px; margin-top: -15px;">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
+								<p>Lorem ipsum Lorem ipsum</p>
+								<span><a href="single-post.html" class="btn btn-primary btn-sm btn-course">Lihat Selengkapnya</a></span>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-6 animate-box">
+						<div class="course">
+							<img class="course-img" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/PjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMjQyIiBoZWlnaHQ9IjIwMCIgdmlld0JveD0iMCAwIDI0MiAyMDAiIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiPjwhLS0KU291cmNlIFVSTDogaG9sZGVyLmpzLzEwMCV4MjAwCkNyZWF0ZWQgd2l0aCBIb2xkZXIuanMgMi42LjAuCkxlYXJuIG1vcmUgYXQgaHR0cDovL2hvbGRlcmpzLmNvbQooYykgMjAxMi0yMDE1IEl2YW4gTWFsb3BpbnNreSAtIGh0dHA6Ly9pbXNreS5jbwotLT48ZGVmcz48c3R5bGUgdHlwZT0idGV4dC9jc3MiPjwhW0NEQVRBWyNob2xkZXJfMTY1ZDNmMzkxMWQgdGV4dCB7IGZpbGw6I0FBQUFBQTtmb250LXdlaWdodDpib2xkO2ZvbnQtZmFtaWx5OkFyaWFsLCBIZWx2ZXRpY2EsIE9wZW4gU2Fucywgc2Fucy1zZXJpZiwgbW9ub3NwYWNlO2ZvbnQtc2l6ZToxMnB0IH0gXV0+PC9zdHlsZT48L2RlZnM+PGcgaWQ9ImhvbGRlcl8xNjVkM2YzOTExZCI+PHJlY3Qgd2lkdGg9IjI0MiIgaGVpZ2h0PSIyMDAiIGZpbGw9IiNFRUVFRUUiLz48Zz48dGV4dCB4PSI4OC45MTY2Njc5MzgyMzI0MiIgeT0iMTA1LjI1Ij4yNDJ4MjAwPC90ZXh0PjwvZz48L2c+PC9zdmc+" alt="">
+							<div class="desc">
+								<h3><a href="#">Lorem ipsum</a></h3>
+								<p style="font-size: 10px; margin-top: -15px;">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
+								<p>Lorem ipsum Lorem ipsum</p>
+								<span><a href="single-post.html" class="btn btn-primary btn-sm btn-course">Lihat Selengkapnya</a></span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!--/ section prestasi  -->
+
+		<!-- section testioni  -->
+		<div id="fh5co-testimonial" style=" width: 100%; background-image: url(<?php echo turi ?>/assets/images/school.jpg);">
+			<div class="overlay"></div>
+			<div class="container">
+				<div class="row animate-box">
+					<div class="col-md-6 col-md-offset-3 text-center fh5co-heading">
+						<h2><span>Testimonials</span></h2>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-10 col-md-offset-1">
+						<div class="row animate-box">
+							<div class="owl-carousel owl-carousel-fullwidth">
+
+								<div class="item">
+									<div class="testimony-slide active text-center">
+										<img class="user" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/PjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCA2NCA2NCIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+PCEtLQpTb3VyY2UgVVJMOiBob2xkZXIuanMvNjR4NjQKQ3JlYXRlZCB3aXRoIEhvbGRlci5qcyAyLjYuMC4KTGVhcm4gbW9yZSBhdCBodHRwOi8vaG9sZGVyanMuY29tCihjKSAyMDEyLTIwMTUgSXZhbiBNYWxvcGluc2t5IC0gaHR0cDovL2ltc2t5LmNvCi0tPjxkZWZzPjxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+PCFbQ0RBVEFbI2hvbGRlcl8xNjVkM2YyZjNjMiB0ZXh0IHsgZmlsbDojQUFBQUFBO2ZvbnQtd2VpZ2h0OmJvbGQ7Zm9udC1mYW1pbHk6QXJpYWwsIEhlbHZldGljYSwgT3BlbiBTYW5zLCBzYW5zLXNlcmlmLCBtb25vc3BhY2U7Zm9udC1zaXplOjEwcHQgfSBdXT48L3N0eWxlPjwvZGVmcz48ZyBpZD0iaG9sZGVyXzE2NWQzZjJmM2MyIj48cmVjdCB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIGZpbGw9IiNFRUVFRUUiLz48Zz48dGV4dCB4PSIxMy4yNSIgeT0iMzYuMjUwMDAwMDk1MzY3NDMiPjY0eDY0PC90ZXh0PjwvZz48L2c+PC9zdmc+" alt="">
+										<span>
+											nama siswa<br>
+											<small>Siswa</small>
+										</span>
+										<blockquote>
+											<p>&ldquo;Lorem ipsum Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sapiente, illo? Maiores perspiciatis consequatur odio. Recusandae, veniam labore officiis amet nam corporis rem aliquid quae hic eos sed exercitationem voluptatum reiciendis. &rdquo;</p>
+										</blockquote>
+									</div>
+								</div>
+								<div class="item">
+									<div class="testimony-slide active text-center">
+										<img class="user" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/PjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCA2NCA2NCIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+PCEtLQpTb3VyY2UgVVJMOiBob2xkZXIuanMvNjR4NjQKQ3JlYXRlZCB3aXRoIEhvbGRlci5qcyAyLjYuMC4KTGVhcm4gbW9yZSBhdCBodHRwOi8vaG9sZGVyanMuY29tCihjKSAyMDEyLTIwMTUgSXZhbiBNYWxvcGluc2t5IC0gaHR0cDovL2ltc2t5LmNvCi0tPjxkZWZzPjxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+PCFbQ0RBVEFbI2hvbGRlcl8xNjVkM2YyZjNjMiB0ZXh0IHsgZmlsbDojQUFBQUFBO2ZvbnQtd2VpZ2h0OmJvbGQ7Zm9udC1mYW1pbHk6QXJpYWwsIEhlbHZldGljYSwgT3BlbiBTYW5zLCBzYW5zLXNlcmlmLCBtb25vc3BhY2U7Zm9udC1zaXplOjEwcHQgfSBdXT48L3N0eWxlPjwvZGVmcz48ZyBpZD0iaG9sZGVyXzE2NWQzZjJmM2MyIj48cmVjdCB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIGZpbGw9IiNFRUVFRUUiLz48Zz48dGV4dCB4PSIxMy4yNSIgeT0iMzYuMjUwMDAwMDk1MzY3NDMiPjY0eDY0PC90ZXh0PjwvZz48L2c+PC9zdmc+" alt="">
+										<span>
+											nama siswa<br>
+											<small>Siswa</small>
+										</span>
+										<blockquote>
+											<p>&ldquo;Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat blanditiis a voluptatum esse obcaecati deserunt necessitatibus dolorem rerum cumque velit provident accusamus eveniet, quas fuga harum placeat perferendis minima. Iste. &rdquo;</p>
+										</blockquote>
+									</div>
+								</div>
+
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!--/ section testioni  -->
+
+		<!--/ section agenda dan berita  -->
+		<div id="fh5co-blog">
+			<div class="container">
+				<div class="row animate-box">
+					<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
+						<h2>Agenda &amp; Berita</h2>
+						<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad magni quo sit, quae voluptas quaerat qui exercitationem et quidem beatae consectetur minima odit, maiores sint odio eaque unde vero cum?</p>
+					</div>
+				</div>
+				<!--/ section agenda berita  -->
+				<div class="row row-padded-mb">
+
+					<div class="col-md-4 animate-box">
+						<div class="fh5co-event">
+							<div class="date text-center"><span>25<br>Mar</span></div>
+							<h3><a href="single-post.html">Lorem, ipsum dolor sit amet consectetur adipisicing elit</a></h3>
+							<p>
+								<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Itaque iste in possimus maiores, obcaecati optio nostrum ab corporis sed tenetur sunt repellat, quo a voluptatem exercitationem saepe deleniti distinctio? Dolore!.</p>
+								...
+							</p>
+						</div>
+					</div>
+
+					<div class="col-md-4 animate-box">
+						<div class="fh5co-event">
+							<div class="date text-center"><span>25<br>Mar</span></div>
+							<h3><a href="single-post.html">Lorem, ipsum dolor sit amet consectetur adipisicing elit</a></h3>
+							<p>
+								<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Itaque iste in possimus maiores, obcaecati optio nostrum ab corporis sed tenetur sunt repellat, quo a voluptatem exercitationem saepe deleniti distinctio? Dolore!.</p>
+								...
+							</p>
+						</div>
+					</div>
+					<div class="col-md-4 animate-box">
+						<div class="fh5co-event">
+							<div class="date text-center"><span>25<br>Mar</span></div>
+							<h3><a href="single-post.html">Lorem, ipsum dolor sit amet consectetur adipisicing elit</a></h3>
+							<p>
+								<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Itaque iste in possimus maiores, obcaecati optio nostrum ab corporis sed tenetur sunt repellat, quo a voluptatem exercitationem saepe deleniti distinctio? Dolore!.</p>
+								...
+							</p>
+						</div>
+					</div>
+				</div>
+
+				<!--/ section berita  -->
+				<div class="row">
+					<div class="col-lg-4 col-md-4">
+						<div class="fh5co-blog animate-box">
+							<img class="blog-img-holder img-responsive" src="https://via.placeholder.com/300x200" alt="">
+							<div class="blog-text">
+								<h3>
+									<a href="single-post.html">Lorem ipsum dolor sit amet, consectetur adipisicing elit</a>
+								</h3>
+								<span style="font-size: 10px; " class="posted_on">May. 18 - Lorem ipsum dolor sit amet consectetur</span>
+								<span style="font-size: 10px; " class="comment"><a href="#">Administrator<i class="fa fa-user"></i></a></span>
+								<p></p>
+								<p>
+									Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad, praesentium! Fugiat deleniti facere iure vero, iste ratione itaque veniam animi voluptas sapiente similique. Nesciunt id, nihil in atque voluptates laborum?
+
+								</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4 col-md-4">
+						<div class="fh5co-blog animate-box">
+							<img class="blog-img-holder img-responsive" src="https://via.placeholder.com/300x200" alt="">
+							<div class="blog-text">
+								<h3>
+									<a href="single-post.html">Lorem ipsum dolor sit amet, consectetur adipisicing elit</a>
+								</h3>
+								<span style="font-size: 10px; " class="posted_on">May. 18 - Lorem ipsum dolor sit amet consectetur</span>
+								<span style="font-size: 10px; " class="comment"><a href="#">Administrator<i class="fa fa-user"></i></a></span>
+								<p></p>
+								<p>
+									Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad, praesentium! Fugiat deleniti facere iure vero, iste ratione itaque veniam animi voluptas sapiente similique. Nesciunt id, nihil in atque voluptates laborum?
+
+								</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4 col-md-4">
+						<div class="fh5co-blog animate-box">
+							<img class="blog-img-holder img-responsive" src="https://via.placeholder.com/300x200" alt="">
+							<div class="blog-text">
+								<h3>
+									<a href="single-post.html">Lorem ipsum dolor sit amet, consectetur adipisicing elit</a>
+								</h3>
+								<span style="font-size: 10px; " class="posted_on">May. 18 - Lorem ipsum dolor sit amet consectetur</span>
+								<span style="font-size: 10px; " class="comment"><a href="#">Administrator<i class="fa fa-user"></i></a></span>
+								<p></p>
+								<p>
+									Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad, praesentium! Fugiat deleniti facere iure vero, iste ratione itaque veniam animi voluptas sapiente similique. Nesciunt id, nihil in atque voluptates laborum?
+
+								</p>
+							</div>
+						</div>
+					</div>
+
+				</div>
+			</div>
+		</div>
+
+		<!-- section pengumuman -->
+		<div id="fh5co-pricing" class="fh5co-bg-section">
+			<div class="container">
+				<div class="row animate-box">
+					<div class="col-md-6 col-md-offset-3 text-center fh5co-heading">
+						<h2>Pengumuman</h2>
+						<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Praesentium molestiae ipsam magni voluptas exercitationem architecto, dignissimos nam nulla. Officiis autem dolores nisi rem nam ratione beatae corporis aliquam, totam eveniet!</p>
+					</div>
+				</div>
+				<div class="row row-padded-mb">
+
+					<div class="col-md-4 animate-box">
+						<div class="fh5co-event">
+							<div class="date text-center"><span>19<br>Mar</span></div>
+							<h3><a href="single-post.html">Lorem ipsum dolor sit amet consectetur adipisicing elit</a></h3>
+							<p></p>
+							<p>Lorem Ipsum<br /> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Animi magnam porro eveniet ab architecto omnis. Sit optio possimus, rem ipsa repellendus quia harum porro saepe amet sint dolore aspernatur odio....</p>
+						</div>
+					</div>
+					<div class="col-md-4 animate-box">
+						<div class="fh5co-event">
+							<div class="date text-center"><span>19<br>Mar</span></div>
+							<h3><a href="single-post.html">Lorem ipsum dolor sit amet consectetur adipisicing elit</a></h3>
+							<p></p>
+							<p>Lorem Ipsum<br /> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Animi magnam porro eveniet ab architecto omnis. Sit optio possimus, rem ipsa repellendus quia harum porro saepe amet sint dolore aspernatur odio....</p>
+						</div>
+					</div>
+					<div class="col-md-4 animate-box">
+						<div class="fh5co-event">
+							<div class="date text-center"><span>19<br>Mar</span></div>
+							<h3><a href="single-post.html">Lorem ipsum dolor sit amet consectetur adipisicing elit</a></h3>
+							<p></p>
+							<p>Lorem Ipsum<br /> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Animi magnam porro eveniet ab architecto omnis. Sit optio possimus, rem ipsa repellendus quia harum porro saepe amet sint dolore aspernatur odio....</p>
+						</div>
+					</div>
+				</div>
+
+			</div>
+		</div>
+		<!-- sectin pengumuman hasil -->
+		<div id="fh5co-register" style="background-image: url(<?php echo turi ?>/assets/images/img_bg_2.jpg);">
+			<div class="overlay"></div>
+			<div class="row">
+				<div class="col-md-8 col-md-offset-2 animate-box">
+					<div class="date-counter text-center">
+						<h2>Pengumuman Hasil Ujian Tahun Ajaran 2018</h2>
+						<div class="simply-countdown simply-countdown-one"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div id="fh5co-gallery" class="fh5co-bg-section">
+			<div class="row text-center">
+				<h2><span><a style="color: #000;" href="#">Gallery Foto</a></span></h2>
+			</div>
+			<div class="row">
+				<div id="gallery">
+
+					<div class="col-md-3 col-padded">
+						<div class="thumb-small-gallery closed" style="opacity: 1;">
+							 <a href="https://via.placeholder.com/400x300" rel="gallery1">
+								 <img class="gallery" src="https://via.placeholder.com/400x300" alt="">
+							 </a>
+						</div>
+					</div>
+
+					<div class="col-md-3 col-padded">
+						<div class="thumb-small-gallery closed" style="opacity: 1;">
+							 <a href="https://via.placeholder.com/400x300" rel="gallery1">
+								 <img class="gallery" src="https://via.placeholder.com/400x300" alt="">
+							 </a>
+						</div>
+					</div>
+					<div class="col-md-3 col-padded">
+						<div class="thumb-small-gallery closed" style="opacity: 1;">
+							 <a href="https://via.placeholder.com/400x300" rel="gallery1">
+								 <img class="gallery" src="https://via.placeholder.com/400x300" alt="">
+							 </a>
+						</div>
+					</div>
+					<div class="col-md-3 col-padded">
+						<div class="thumb-small-gallery closed" style="opacity: 1;">
+							 <a href="https://via.placeholder.com/400x300" rel="gallery1">
+								 <img class="gallery" src="https://via.placeholder.com/400x300" alt="">
+							 </a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- section partner  -->
+		<section id="partner">
+			<div class="container">
+				<div class="center wow fadeInDown">
+					<h4 style="color: #fff; font-family: arial;">Link Terkait</h4>
+				</div>
+
+				<div class="partners">
+					<ul>
+						<li>
+							<a target="_blank" href="http://nabirekab.go.id/portal/" title="http://nabirekab.go.id/portal/">
+								<img class="img-responsive wow fadeInDown"
+								 src="<?php echo turi ?>/assets/gambar/linkterkait/link-nabire.png">
+							</a>
+						</li>
+
+						<li>
+							<a target="_blank" href="http://www.kemendagri.go.id/" title="http://www.kemendagri.go.id/">
+								<img class="img-responsive wow fadeInDown" src="<?php echo turi ?>/assets/gambar/linkterkait/link-kemendagri.png">
+							</a>
+						</li>
+
+						<li>
+							<a target="_blank" href="https://papua.go.id/" title="https://papua.go.id/">
+								<img class="img-responsive wow fadeInDown" src="<?php echo turi ?>/assets/gambar/linkterkait/link-papua.png">
+							</a>
+						</li>
+
+						<li>
+							<a target="_blank" href="https://lapor.go.id/" title="https://lapor.go.id/">
+								<img class="img-responsive wow fadeInDown" src="<?php echo turi ?>/assets/gambar/linkterkait/link-lapor1.png">
+							</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</section>
+
+		<footer id="fh5co-footer" role="contentinfo" style="background-image: url(<?php echo turi ?>/assets/images/img_bg_4.jpg);">
+			<!-- menu bawah -->
+			<div class="overlay"></div>
+			<div class="container">
+				<div class="row row-pb-md">
+					<div class="col-md-3 fh5co-widget">
+						<h3>Kepala Sekolah</h3>
+						<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi, eveniet? Placeat cupiditate, laudantium, impedit nobis distinctio corporis facere aliquam dolorem alias ullam assumenda quidem, veniam perferendis. Rem id illo quis.</p>
+					</div>
+					<div class="col-md-2 col-sm-4 col-xs-6 col-md-push-1 fh5co-widget">
+						<h3>Profil Sekolah</h3>
+						<ul class="fh5co-footer-links">
+							<li><a href="#">Sejarah Sekolah</a></li>
+							<li><a href="#">Visi Misi</a></li>
+							<li><a href="#">Profil Sekoah</a></li>
+							<li><a href="#">Sarana & Prasarana</a></li>
+							<li><a href="#">Guru & Staff</a></li>
+							<li><a href="#">Struktur Organisasi</a></li>
+						</ul>
+					</div>
+
+					<div class="col-md-2 col-sm-4 col-xs-6 col-md-push-1 fh5co-widget">
+						<h3>Kesiswaan</h3>
+						<ul class="fh5co-footer-links">
+							<li><a href="#">Tata Tertib</a></li>
+							<li><a href="#">Prestasi</a></li>
+							<li><a href="#">Akselerasi</a></li>
+							<li><a href="#">OSIS</a></li>
+							<li><a href="#">Siswa</a></li>
+							<li><a href="#">Extrakulikuler</a></li>
+						</ul>
+					</div>
+
+					<div class="col-md-2 col-sm-4 col-xs-6 col-md-push-1 fh5co-widget">
+						<h3>Media Informasi</h3>
+						<ul class="fh5co-footer-links">
+							<li><a href="#">Kurikulum</a></li>
+							<li><a href="#">Pengumuman & Agenda</a></li>
+							<li><a href="#">Berita Sekolah</a></li>
+							<li><a href="#">Artikel</a></li>
+							<li><a href="#">Download Bahan Ajar</a></li>
+						</ul>
+					</div>
+
+					<div class="col-md-2 col-sm-4 col-xs-6 col-md-push-1 fh5co-widget">
+						<h3>Lain-nya</h3>
+						<ul class="fh5co-footer-links">
+							<li><a href="#">Tupoksi</a></li>
+							<li><a href="#">Hubungi Kami</a></li>
+							<li><a href="#">Kirim Testimoni</a></li>
+						</ul>
+					</div>
+				</div>
+
+				<div class="row copyright">
+					<div class="col-md-12 text-center">
+						<p>
+							<small class="block">&copy; 2018 SMK Negeri 1 Nabire All Rights Reserved.</small>
+							<small class="block">Designed by - <a style="color: #fff;" href="http://idelogi.com/" target="_blank">CV.
+									Idelogi Indonesia</a>
+							</small>
+						</p>
+					</div>
+				</div>
+
+			</div> <!-- menu bawah -->
+		</footer>
+	</div>
+
+	<div class="gototop js-top">
+		<a href="#" class="js-gotop"><i class="icon-arrow-up"></i></a>
+	</div>
+
+<?php get_footer(); ?>
