@@ -84,7 +84,8 @@ if (!function_exists('theme_scripts')) {
     wp_enqueue_style( 'animate', turi.'/assets/css/animate.css');
     wp_enqueue_style( 'icomoon', turi.'/assets/css/icomoon.css');
     wp_enqueue_style( 'bootstrap', turi.'/assets/css/bootstrap.css');
-    wp_enqueue_style( 'owl.carousel.min', turi.'/assets/css/owl.carousel.min.css');
+    wp_enqueue_style( 'owl-carousel', turi.'/assets/css/owl.carousel.min.css');
+    wp_enqueue_style( 'owl-theme-default', turi.'/assets/css/owl.theme.default.min.css');
     wp_enqueue_style( 'pricing', turi.'/assets/css/pricing.css');
     wp_enqueue_style( 'font-awesome', 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.5.0/css/font-awesome.min.css');
     wp_enqueue_style( 'ionicons', 'https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css');
